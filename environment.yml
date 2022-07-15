@@ -1,0 +1,26 @@
+name: aim
+channels:
+- conda-forge
+dependencies:
+- jupyter
+- scipy
+- python=3.8
+- scikit-learn
+- statsmodels
+- sqlalchemy
+- matplotlib
+- numpy
+- pandas
+- seaborn
+- rdkit
+- xlrd
+- jupyterlab
+- pymongo
+- ipykernel
+- pip
+- pip:
+  - openpyxl
+  - genra
+  - lxml
+  - python-box
+ 
