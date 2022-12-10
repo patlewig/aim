@@ -1,7 +1,10 @@
 AIM
 ==============================
 
-An evaluation of the utility of using AIM features sets relative to other chemical fingerprint sets such as ToxPrints in a read-across context.
+An evaluation of the utility of using AIM features sets relative to other chemical fingerprint sets such as ToxPrints in a read-across context. This code repository supports the manuscript Adams M, Hidle H, Chang D, Richard AM, Williams AJ, Shah I, Patlewicz G*. Development of a CSRML vesion of the Analog Identification Methodology (AIM) fragments and their evaluation within the Generalised Read-Across (GenRA) approach. Computational Toxicology, 2022, *in press*. https://doi.org/10.1016/j.comtox.2022.100256
+
+
+To use the notebooks, clone the repo, then manually insert the relevant data files based on the project organisation shown below. Data files are supplied as a compressed tar file from the doi link. AIM-CSRML file is available as supplementary information from the journal as well as in the data files (external folder).
 
 Project Organization
 ------------
